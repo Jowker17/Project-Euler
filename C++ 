@@ -36,4 +36,4 @@ int main(){
 //Program's duration
    cout<<k<<endl<<"time: "<<duration.count()<<" ms";
    return 0;
-} 
+}

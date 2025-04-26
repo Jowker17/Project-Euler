@@ -1,4 +1,4 @@
-//10001th prime
+//10001th prime.cpp
 
 #include<iostream>
 #include <chrono>

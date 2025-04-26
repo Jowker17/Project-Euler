@@ -1,5 +1,5 @@
-//10001th prime.cpp
-
+//10001th prime
+Cpp
 #include<iostream>
 #include <chrono>
 using namespace std;

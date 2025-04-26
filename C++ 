@@ -16,7 +16,7 @@ bool isPrime(int x){
      }
   }   
   return true;
-} 
+}  
 //it returns a Boolean value
 int main(){
    auto start =

@@ -26,4 +26,4 @@ for i in range(3,10**6,2):
         maxchain = chain
 print("Ən uzun ardicilliq :",maxchain.length)
 print("Eded: ",maxchain.value)
-print("execution time : ",time.perf_counter()-f1) # 2.4 ms  That's başarı for Python
+print("execution time : ",time.perf_counter()-f1) # 2.4 ms  That's achievement for Python
